@@ -30,10 +30,12 @@ nosetests.xml
 # Translations
 *.mo
 
-# Mr Developer
+# Mrs. Developer
 .mr.developer.cfg
 .project
 .pydevproject
+*.sublime-project
+*.sublime-workspace
 
 # virtualenv
 env
