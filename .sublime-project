@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "FIXME",
+			"folder_exclude_patterns": ["*.egg", "*.egg-info", "env", "cover"],
+			"file_exclude_patterns": ["*.egg", "*.tar.gz"]
+		}
+	]
+}
